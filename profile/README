@@ -1,0 +1,82 @@
+# Turma MI-81 — Técnico em Informática para Internet
+
+Esta organização reúne os repositórios desenvolvidos pelos alunos da Turma MI-81 do Curso Técnico em Informática para Internet do CentroWEG.
+
+A organização foi criada com o objetivo de centralizar os projetos desenvolvidos durante a Situação de Aprendizagem, facilitando o acompanhamento das entregas, a organização dos grupos e o registro da evolução técnica dos alunos ao longo das atividades práticas.
+
+## Objetivo da organização
+
+Esta organização no GitHub tem como finalidade:
+
+- centralizar os projetos desenvolvidos pela turma;
+- organizar os repositórios por grupo;
+- facilitar o acompanhamento técnico das entregas;
+- estimular o uso de Git e GitHub no processo de desenvolvimento;
+- incentivar boas práticas de organização de código;
+- aproximar os alunos de uma rotina semelhante à utilizada em ambientes profissionais de desenvolvimento;
+- registrar o desenvolvimento técnico dos alunos ao longo da Situação de Aprendizagem.
+
+## Situação de Aprendizagem
+
+### SA — WegAsset Control
+
+A Situação de Aprendizagem desenvolvida pela Turma MI-81 teve como tema o desenvolvimento do sistema **WegAsset Control**, uma aplicação Java em console para controle de ativos industriais, sensores, alertas e manutenções.
+
+Nesta atividade, os alunos foram desafiados a simular uma solução interna voltada ao ambiente fabril, considerando a necessidade de acompanhar ativos industriais instalados em diferentes setores da fábrica. O sistema deveria permitir o cadastro e gerenciamento de usuários, setores, ativos, sensores, técnicos, alertas e manutenções.
+
+A proposta teve como foco a aplicação dos conceitos de Programação Orientada a Objetos e organização arquitetural em camadas, utilizando Java puro, execução via console, arquitetura MVC, camada Service para regras de negócio, Repository com armazenamento em memória utilizando HashMap ou Map, Entity para representação dos objetos do sistema e controle de permissões por perfil de acesso.
+
+Durante o desenvolvimento, os grupos trabalharam conceitos como classes, objetos, atributos, métodos, encapsulamento, organização de pacotes, separação de responsabilidades, autenticação, níveis de acesso, validações, tratamento de erros e estruturação de funcionalidades em diferentes camadas do sistema.
+
+O objetivo da atividade foi permitir que os alunos aplicassem os fundamentos de desenvolvimento de software em um projeto prático, simulando uma demanda próxima de um contexto real de tecnologia aplicada à indústria.
+
+## Tecnologias e conceitos trabalhados
+
+Durante a Situação de Aprendizagem, os projetos envolveram principalmente:
+
+- Java puro;
+- execução via console;
+- Programação Orientada a Objetos;
+- arquitetura MVC;
+- camada Service;
+- camada Repository;
+- armazenamento em memória com HashMap ou Map;
+- entidades do sistema;
+- controle de login;
+- perfis de acesso e permissões;
+- tratamento de erros com try/catch;
+- organização de código em pacotes;
+- uso de Git e GitHub;
+- organização de tarefas com issues e GitHub Projects.
+
+## Organização dos projetos
+
+Cada grupo utilizou um repositório próprio dentro desta organização. Os repositórios foram utilizados para armazenar o código-fonte, organizar as entregas, registrar a evolução do projeto e acompanhar o desenvolvimento das funcionalidades previstas na Situação de Aprendizagem.
+
+As atividades foram organizadas com o apoio de issues e quadros no GitHub Projects (modelo Kanban), permitindo que os grupos acompanhassem o andamento das tarefas, distribuíssem responsabilidades e registrassem o progresso do desenvolvimento.
+
+## Papel do docente
+
+[@Petrosski](https://github.com/Petrosski)
+
+A estruturação da organização, a definição da atividade e o acompanhamento dos projetos foram conduzidos pelo docente responsável pela unidade curricular.
+
+Durante a Situação de Aprendizagem, o docente atuou como mediador do processo, orientando os alunos na interpretação do problema, na aplicação dos conceitos técnicos e na evolução das soluções desenvolvidas.
+
+O acompanhamento foi realizado de forma prática, com mediação em sala, esclarecimento de dúvidas, revisão dos projetos e orientação quanto à organização, arquitetura, qualidade do código e funcionamento geral das entregas.
+
+## Finalidade pedagógica
+
+O uso desta organização tem finalidade educacional e busca fortalecer a aprendizagem prática dos alunos, aproximando os conteúdos trabalhados em aula de situações reais de desenvolvimento de software.
+
+A Situação de Aprendizagem permitiu que os alunos aplicassem conceitos técnicos em um projeto mais estruturado, compreendendo a importância da organização do código, da separação de responsabilidades, do controle de versões e da colaboração em grupo.
+
+## Observação importante
+
+Os repositórios desta organização representam o processo de aprendizagem dos alunos ao longo da Situação de Aprendizagem aplicada. Por esse motivo, os projetos podem apresentar diferentes níveis de maturidade técnica, refletindo a evolução de cada grupo durante as atividades.
+
+É importante destacar que, durante o período de desenvolvimento desta SA, algumas aulas foram infelizmente impactadas por outros treinamentos e atividades paralelas. Essa redução no tempo disponível afetou o andamento dos trabalhos e teve reflexos na entrega final de alguns grupos.
+
+Mesmo diante dessa limitação, os projetos registrados nesta organização evidenciam o esforço dos alunos na aplicação dos conteúdos trabalhados, especialmente em relação à Programação Orientada a Objetos, arquitetura MVC, organização em camadas, uso de GitHub e desenvolvimento de sistemas em Java.
+
+Esta organização também funciona como registro pedagógico das práticas desenvolvidas pela turma, demonstrando o percurso de aprendizagem, os desafios enfrentados e a evolução técnica dos alunos no contexto do Curso Técnico em Informática para Internet.
